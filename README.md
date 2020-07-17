@@ -3,7 +3,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on China
-- 🌱 I’m currently learning React, Node with TypeScript, Backend!
+- 🌱 I’m currently learning 
+  - 🥇 Frontend(React, Vue 3.x, Angular)
+  - 🥈 HybridApp(Flutter, ReactNative)
+  - 🥉 Backend(based on Node and TypeScript) 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

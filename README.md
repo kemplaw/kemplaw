@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here's something about me:
 
 - 🔭 I’m currently working on China
 - 🌱 I’m currently learning 
